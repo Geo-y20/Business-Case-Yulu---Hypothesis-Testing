@@ -40,6 +40,10 @@ The dataset used for this analysis contains information related to bike rentals 
 ## Conclusion
    - Weather conditions, particularly temperature and humidity, significantly influence bike rental demands. Higher temperatures tend to increase demand, while higher humidity negatively impacts demand.
    - Additionally, registered and casual users strongly impact bike rental counts, suggesting that user base and weather conditions are crucial factors for Yulu's business model and marketing strategies.
+## Some Graohs and Stats From Project
+<img src="PieCharts.png" alt="Image Description">
+<img src="Hypothesis Ttesting.png" alt="Image Description">
+
 
 ## Next Steps
 - Further exploration into the effects of specific weather conditions on bike rentals.
